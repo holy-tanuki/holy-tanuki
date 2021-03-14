@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karottttte
+- 👋 Hi, I’m @holy_tanuki
 - 👀 I'm interested in creating **video game** (but I'm a beginner), **website** and **web application like discord bots**
 - 🌱 I’m currently learning **python**, **c#** and **c++**
 - 📫 If you want to contact there is my discord account: **The Holy Tanuki#6684**
