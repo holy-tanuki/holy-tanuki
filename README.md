@@ -1,8 +1,7 @@
-## Me
+## 👋 Me
 🎓 Currently in high school at art school.
 💻 Beginner in programming for a few years, I mainly code in Python and am learning Rust, C++ and Java.
 
----
 ## 📚 Languages I know:
 ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
 &nbsp; &nbsp; ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
