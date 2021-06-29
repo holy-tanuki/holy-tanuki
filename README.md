@@ -1,5 +1,5 @@
 ## 👋 Me
-🎓 Currently in high school at art school.
+🎓 Currently in high school at art school. <br>
 💻 Beginner in programming for a few years, I mainly code in Python and am learning Rust, C++ and Java.
 
 ## 📚 Languages I know:
