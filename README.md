@@ -7,9 +7,9 @@
 
 
 ### Contact me
-[<a href="https://www.instagram.com/holydeusoftanukis/"><img align="left" alt="holy-tanuki" width="23px" src=""></a>][instagram]
-[<a href="https://discord.gg/yuCmafTjzW"><img align="left" alt="holy-tanuki" width="23px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png"></a>][discord]
-[<a href=""><img align="left" alt="holy-tanuki" width="23px" src=""></a>][twitter]
+[<img align="left" alt="holy-tanuki" width="23px" src="">](https://www.instagram.com/holydeusoftanukis/)
+[<img align="left" alt="holy-tanuki" width="23px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png">](https://discord.gg/yuCmafTjzW)
+[<img align="left" alt="holy-tanuki" width="23px" src="">](https://twitter.com/)
 <!--[<img align="left" alt="holy-tanuki" width="23px" src="">][fiverr]-->
 
 <br>
