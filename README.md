@@ -1,11 +1,17 @@
-## 👋 Me
-🎓 Currently in high school at art school. <br>
-💻 Beginner in programming for a few years, I mainly code in Python and am learning Rust, C++ and Java.
+### Hi there, I'm Arthur or Holy Tanuki
 
-## 📚 Languages I know:
-![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
-&nbsp; &nbsp; ![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
-<br><br>
+## I'm Student, DEveloper and Artist! 
+ - 🎓 I'm currently in high school learning the applied arts.
+ - 🌱 I'm a beginner in programming for a few years. 
+ - 🧠 I'm learning a lot of things like 3D, 2D animation and some programming language.
+
+
+### Contact me
+[<a href=""><img align="left" alt="holy-tanuki" width="23px" src=""></a>][instagram]
+[<a href="https://discord.gg/yuCmafTjzW"><img align="left" alt="holy-tanuki" width="23px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/discord-512.png"></a>][discord]
+[<a href=""><img align="left" alt="holy-tanuki" width="23px" src=""></a>][twitter]
+<!--[<img align="left" alt="holy-tanuki" width="23px" src="">][fiverr]-->
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holy-tanuki&langs_count=8)](https://github.com/holy-tanuki)
