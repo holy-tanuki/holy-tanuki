@@ -7,8 +7,8 @@
 
 
 ### Contact me
-[<img align="left" src="https://pics.freeicons.io/uploads/icons/png/222982131530099346-512.png" alt="discord" width="33px" height="33px" />][instagram]
-[<img align="left" src="https://pics.freeicons.io/uploads/icons/png/15826230201556105702-512.png" alt="discord" width="33px" height="33px" />][discord]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" alt="instagram" width="33px" height="33px" />][instagram]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" alt="discord" width="33px" height="33px" />][discord]
 <!--![twitter][](https://twitter.com/)
 [<img align="left" alt="holy-tanuki" width="23px" src="">][fiverr]-->
 
