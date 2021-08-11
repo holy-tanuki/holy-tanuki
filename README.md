@@ -9,8 +9,8 @@
 ### Contact me
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" alt="instagram" width="33px" height="33px" />][instagram]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" alt="discord" width="33px" height="33px" />][discord]
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" alt="twitter" width="33px" height="33px" />][twitter]
-[<img align="left" alt="holy-tanuki" width="23px" src="">][fiverr]-->
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" alt="twitter" width="33px" height="33px" />][twitter]
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/fiverr.svg" alt="fiverr" width="33px" height="33px" />][fiverr]
 
 <br>
 
@@ -19,3 +19,4 @@
 [discord]: https://discord.gg/yuCmafTjzW
 [instagram]: https://www.instagram.com/holydeusoftanukis/
 [twiiter]: https://twitter.com/realKar0t
+[fiverr]: https://www.fiverr.com/holytanukis
