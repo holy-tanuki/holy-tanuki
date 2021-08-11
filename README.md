@@ -18,5 +18,5 @@
 
 [discord]: https://discord.gg/yuCmafTjzW
 [instagram]: https://www.instagram.com/holydeusoftanukis/
-[twiiter]: https://twitter.com/realKar0t
+[twitter]: https://twitter.com/realKar0t
 [fiverr]: https://www.fiverr.com/holytanukis
