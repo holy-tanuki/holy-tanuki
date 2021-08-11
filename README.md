@@ -1,4 +1,4 @@
-### Hi there, I'm Arthur or Holy Tanuki
+### Hi there, I'm Holy Tanuki (or Arthur)
 
 ## I'm Student, Developer and Artist! 
  - 🎓 I'm currently in high school learning the applied arts.
