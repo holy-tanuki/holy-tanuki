@@ -7,7 +7,7 @@
 
 
 ### Contact me
-[<img align="left" src="https://simpleicons.org/icons/instagram.svg" alt="discord" width="33px" style="color: #fff;" />][instagram]
+[<img align="left" src="https://simpleicons.org/icons/instagram.svg" alt="discord" width="33px" style="filter: invert(1);" />][instagram]
 [<img align="left" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="discord" width="33px" />][discord]
 <!--![twitter][](https://twitter.com/)
 [<img align="left" alt="holy-tanuki" width="23px" src="">][fiverr]-->
