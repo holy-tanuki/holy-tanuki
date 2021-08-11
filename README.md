@@ -12,6 +12,7 @@
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" alt="twitter" width="33px" height="33px" />][twitter]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/fiverr.svg" alt="fiverr" width="33px" height="33px" />][fiverr]
 
+<br />
 
 ### Languages and tools
 [<img align="left" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/python/python-original.svg" width="33px" height="33px" />]
