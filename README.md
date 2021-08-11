@@ -5,6 +5,7 @@
  - 🌱 I'm a beginner in programming for a few years. 
  - 🧠 I'm learning a lot of things like 3D, 2D animation and some programming language.
 
+<br />
 
 ### Follow or contact me
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" alt="discord" width="33px" height="33px" />][discord]
@@ -12,6 +13,7 @@
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" alt="twitter" width="33px" height="33px" />][twitter]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/fiverr.svg" alt="fiverr" width="33px" height="33px" />][fiverr]
 
+<br />
 <br />
 
 ### Languages and tools
