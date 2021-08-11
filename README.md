@@ -6,7 +6,7 @@
  - 🧠 I'm learning a lot of things like 3D, 2D animation and some programming language.
 
 
-### Follow me
+### Follow or contact me
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/discord.svg" alt="discord" width="33px" height="33px" />][discord]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" alt="instagram" width="33px" height="33px" />][instagram]
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" alt="twitter" width="33px" height="33px" />][twitter]
