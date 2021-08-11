@@ -14,7 +14,7 @@
 
 
 ### Languages and tools
-[<img align="left" alt="python" src="https://cdn.jsdelivr.net/gh/deviconss/devicon@2.12.0/icons/python/python-original.svg" width="33px" height="33px" />]
+[<img align="left" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/python/python-original.svg" width="33px" height="33px" />]
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holy-tanuki&langs_count=8)](https://github.com/holy-tanuki)
