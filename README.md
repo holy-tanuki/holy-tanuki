@@ -20,7 +20,7 @@
 <img align="left" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/javascript/javascript-original.svg" width="33px" height="33px" />
 <img align="left" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/html5/html5-original.svg" width="33px" height="33px" />
 <img align="left" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/css3/css3-original.svg" width="33px" height="33px" />
-<img align="left" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/rust/rust-original.svg" width="33px" height="33px" />
+<img align="left" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/rust/rust-plain.svg" width="33px" height="33px" />
 <img align="left" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.12.0/icons/mongodb/mongodb-original.svg" width="33px" height="33px" />
 
 <br>
